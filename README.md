@@ -25,7 +25,7 @@ This project involves performing data profiling and cleansing on the Passenger S
 - Address missing values (ensuring zero missing entries in the cleaned dataset).
 - Remove fully duplicated rows.
 - Fix column data types to match the correct formats.
-- Export the cleaned dataset to a CSV file (`Project_2_Group#.csv`).
+- Export the cleaned dataset to a CSV file.
 
 ### 3. Comparison of Data Characteristics
 - Compare column attributes before and after cleansing, including:
@@ -47,7 +47,7 @@ This project involves performing data profiling and cleansing on the Passenger S
 
 ## Outputs
 1. **Cleaned Dataset:**
-   - A CSV file named `Project_2_Group#.csv` containing the cleaned data.
+   - A CSV file containing the cleaned data.
 
 2. **Jupyter Notebook:**
    - Fully annotated notebook showcasing:
@@ -60,7 +60,7 @@ This project involves performing data profiling and cleansing on the Passenger S
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/Project_Data_Profiling.git
+   git clone https://github.com/VijayAtheli1709/Project_Data_Profiling.git
 
 
 Install required libraries:
