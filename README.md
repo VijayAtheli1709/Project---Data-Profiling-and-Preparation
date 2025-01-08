@@ -60,7 +60,7 @@ This project involves performing data profiling and cleansing on the Passenger S
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/VijayAtheli1709/Project_Data_Profiling.git
+   git clone https://github.com/VijayAtheli1709/Project---Data-Profiling-and-Preparation.git
 
 
 Install required libraries:
